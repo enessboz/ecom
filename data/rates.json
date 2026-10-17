@@ -1,0 +1,9 @@
+{
+  "updatedAt": null,
+  "settings": {
+    "deductInputVat": null,
+    "applyWithholding": null,
+    "withholdingBp": null
+  },
+  "channels": {}
+}

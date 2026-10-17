@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ecom": {
+      "command": "pnpm",
+      "args": ["--silent", "--filter", "@ecom/mcp", "start"]
+    }
+  }
+}
